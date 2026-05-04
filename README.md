@@ -10,7 +10,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Summary Dashboard](assets/backgrounds/Summary.PNG)
+![Summary Dashboard](assets/backgrounds/dashboard_preview.png)
 
 ---
 
