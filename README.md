@@ -332,16 +332,8 @@ Title Predicted Churners = "COUNT OF PREDICTED CHURNERS : " & COUNT(Predictions[
 
 ---
 
-## 🎨 Color Palette
 
-| Name | Hex |
-|---|---|
-| Primary Blue | `#4A44F2` |
-| Light Purple | `#9B9FF2` |
-| Background | `#F2F2F2` |
-| Accent Blue | `#A0D1FF` |
 
----
 
 ## 👤 Author
 
